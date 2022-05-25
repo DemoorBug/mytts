@@ -8,15 +8,17 @@
 
 
 ## 使用
-首先要有github账号和Vercel账号。
+首先要有<a href="https://github.com/">github账号</a>和<a href="https://www.vercel.com/">Vercel账号</a>。
+vercel大陆部分地区只有电信才能打开。
 
 如果没有Vercel账号，请不要选择第三方账号登陆如github账号,因为后面绑定手机号是通不过的,提示不存在账号,最好使用电子邮件方式注册账号!
 
-请先 Fork 一份代码然后部署到自己的 Vercel 中 （[演示视频](https://www.youtube.com/watch?v=vRC6umZp8hI)）。
+请先 Fork 一份代码然后部署到自己的 Vercel 中 （[演示视频](https://m.bilibili.com/video/BV125411R79T)）。
 
 ### 导入到阅读（legado）
 
 请访问你部署好的网站，在页面中测试没有问题后点击“生成阅读（legado）语音引擎链接”，然后在阅读（legado）中导入。
+导入阅读后的接口，大陆全网都是可以听的。
 
 ### 手动调用
 
