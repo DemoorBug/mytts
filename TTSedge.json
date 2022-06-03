@@ -24,9 +24,13 @@ var styledata = {
     "unfriendly":"冷漠",
     "terrified":"胆颤",
     "whispering":"柔细",
-     "shouting":"远处传声",
+    "shouting":"远处传声",
     "friendly":"温柔关怀",
     "excited":"乐观",
+    "poetry-reading":"诗歌朗诵",
+    "sports_commentary":"体育评论",
+    "sports_commentary_excited":"体育评论-激昂",
+    "advertisement_upbeat":"广告策划"
 };
 var data = [
   {
@@ -4849,7 +4853,8 @@ var data = [
       "gentle",
       "lyrical",
       "sad",
-      "serious"
+      "serious",
+      "poetry-reading"
     ],
     "SampleRateHertz": "24000",
     "VoiceType": "Neural",
